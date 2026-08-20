@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix Code Review"
+  short_description: "Resolve GitLab MR review comments with human-gated commits"
+  default_prompt: "Use this skill to fetch MR discussions, fix review comments with minimal code changes, present diffs for human validation, and only commit after explicit confirmation."
